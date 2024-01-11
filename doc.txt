@@ -2,3 +2,6 @@ Django rest framework
 
 1.Installar
 # pip install djangorestfraework
+
+2.Serializers:
+En Django REST framework (DRF), el archivo serializer.py se utiliza para definir serializadores, que son componentes clave en la construcción de APIs REST. El objetivo principal de un serializador es convertir los modelos de Django o cualquier otra fuente de datos en formato Python (como diccionarios) en representaciones que puedan ser fácilmente convertidas a JSON u otros formatos de intercambio de datos. Además, los serializadores también facilitan la validación de los datos recibidos en las solicitudes de la API.
